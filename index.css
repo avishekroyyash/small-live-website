@@ -1,0 +1,10 @@
+*{
+    margin:10px;
+    background-color: skyblue;
+    /* border:5px solid orange; */
+    padding:5px;
+}
+h1,h2,h3{
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
